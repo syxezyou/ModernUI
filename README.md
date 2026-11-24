@@ -206,3 +206,11 @@ Libre d'utilisation et de modification. Merci de conserver les crédits.
 ## Support
 
 Ouvre une issue ou contacte l'auteur avec ton message d'erreur console (F8) pour toute demande.
+
+---
+
+## Auteur et maintenance
+
+**Développé par SYX** — [GitHub @syxezyou](https://github.com/syxezyou).
+
+Pour signaler un problème, indiquez la version utilisée, les étapes de reproduction et les messages d’erreur pertinents. Ne publiez jamais de clés privées, de mots de passe ou de jetons.
